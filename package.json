@@ -12,6 +12,7 @@
     "debug": "^2.6.9",
     "ejs": "~2.5.5",
     "finalhandler": "^1.0.3",
+    "httpntlm": "^1.7.5",
     "lodash": "^3.10.1",
     "request": ">=2.9.0",
     "sax": ">=0.6",
